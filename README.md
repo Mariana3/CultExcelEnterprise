@@ -1,2 +1,11 @@
 # CultExcelEnterprise
+
+ * @package    Portal Socio  Empresarial Cult Excel
+ * @author     Mariana Lopez, Andres Felipe Alvarez, Bryan Andres Durango 
+ * @copyright  2015 SENA All Rights Reserved.
+ * @license    GNU GENERAL PUBLIC LICENSE
+ * @version    Release: @1.04@
+ * @link       https://github.com/Pipe2193/CultExel.git
+ * @framework  Soho Framework @1.04@ - https://github.com/jalfcolombia/SohoFramework.git
+
 Proyecto Productivo Sena Cult Excel Enterprise by Mariana Lopez &amp; Andres Felipe Alvarez

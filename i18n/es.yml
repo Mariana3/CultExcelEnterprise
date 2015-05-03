@@ -1,0 +1,285 @@
+# Diccionario de ejemplo
+culture:                  Español
+dictionary:
+  default:
+    user:                 Nombre De Usuario
+    pass:                 Digite Su Contraseña
+    confipass:            Confirmar La Contraseña
+    usertxtPlaceholder:   Usuario
+    passtxtPlaceholder:   Contraseña
+    passtxtPlaceholder2:  Confirmar Contraseña
+    register:             Registrar
+    update:               Actualizar
+    adminusu:             Administracion De Usuarios
+    adminusulow:          Administracion De Usuarios Del Sistema
+    credusu:              Credenciales De Usuario
+    credencial:           Credencial
+    bitacora:             Bitacora Del Sistema
+    evento:               Eventos
+    userCredencial:       Usuario Credencial
+    usuario:              Usuario
+    fechaCreacion:        Fecha De Registro
+    actions:              Acciones
+    idioma:               Idioma
+    Detalle:              Detalle
+    EliminarFiltros:      Eliminar Filtros
+    Filtrar:              Filtrar
+    Filtros:              Filtros
+    Filtro:               Filtro
+#menu
+    Admin:                Panel Administrador
+    adminusuario:         User Admin
+    Credenciales:         Credencials
+    Bitacora:             Bitacora
+    Evento:               Eventos
+    Datos:                Datos Usuarios
+    Categoria:            Categoria
+#admin
+    Perfiles:             Perfil
+    Cambiar:              Cambiar Contraseña
+    Cerrar:               Cerrar Sesion
+    Derechos:             2015 Cult Excel -  Todos Los Derechos Reservados.
+#bitacora
+    Portal:               PORTAL WEB
+    PDF:                  insertar A PDF
+    Autores:              Diseñado Por Mariana Lopez, Andres Felipe Alvarez  
+#credencial 
+    Cancelar:             Cancelar
+    Nuevo:                Nuevo
+    Editar:               Editar  
+#datoUsuario
+    Seleccion:            borrarSeleccion
+    Borrar:               Borrar
+    Eliminar:             Eliminar
+    DatoUsu:              Datos De Usuarios
+#default
+    lugar:                Santiago De Cali, Colombia
+    Inicio:               Inicio
+    Cuenta:               Tu Cuenta
+    Ayuda:                Ayuda
+    Nosotros:             Acerca De Nosotros
+    Vision:               Vision
+    Mision:               Mision
+    Crear:                Crear Evento
+    Contacto:             Contactenos
+    Bienvenida:           Bienvenidos A
+    Web:                  Portal Web
+    Gente:                que Conecta tu Gente
+    Quienes:              Quienes somos?
+    Sobre:                De Eventos
+    Publicar:             Publica Tus
+    Esperar:              Que Estas Esperando!
+    Cuando:               Publica Ya!
+    mejor:                Los mejores
+    Arte:                 Eventos Artisticos
+    Disfrutar:            Aqui, Disfrutalos!
+    Conocer:              Conocelos!
+    Crea:                 Crea Tu Evento
+    detalle:              Rellena los detalles del evento y las opciones de entrada, y ¡voilà—! tu página estará lista.
+    Compartir:            Compartelo!
+    Invitacion:           Invita a personas a tu evento mediante nuestras herramientas gratuitas, y siéntate a ver cómo crecen las ventas y las inscripciones.
+    Gratis:               Gratis para eventos gratuitos
+    Gratuitos:            El Portal Web es completamente gratis para eventos gratuitos, da igual lo pequeños que sean.
+    Tarifas:              Tarifas Muy Bajas
+    Ofrecemos:            Te ofrecemos diferentes planes de muy bajo costo, que puedes acceder facilmente para pa publicacion de tu evento.
+    Moderno:              Moderno
+    Eficaz:               Eficaz
+    Innovador:            Innovador
+    Sencillo:             Sencillo
+    Amigable:             Amigable
+    Manera:               El PORTALWEB Es La Manera Mas 
+    Forma:                Sencilla Y Rapida
+    Para:                 Para
+    Nube:                 Crear Y Publicar tus Eventos En La Nube.
+    Conoce:               Conocenos!
+    Registrate:           Registrate Ya!
+    Disfrute:             Disfruta De Los Mejores
+    Ciudad:               En tu Ciudad
+    Creacion:             Crear
+    Imagina:              Imagina
+    Propio:               tu propio evento
+    Reune:                Reúne a tu gente, o convierte tu pasión en negocio.  
+    Excel:                Cult Excel te da todo lo que necesitas para crear el mejor evento que puedas imaginar
+    Comenzar:             Comenzar
+    Ahorra:               Ahorra Tiempo Y Dinero Con Nuestros Planes que Tenemos Para
+    Basico:               Basico
+    Profesional:          Profesional 
+    Diseño:               Diseño DICAL Web
+    Politicas:            Politicas De Privacidad
+    Relampago:            Relampago
+    Premium:              Premium
+#evento
+    Nombre:               Nombre Del Evento
+    Descripcion:          Descripcion
+    Direccion:            Direccion
+    Inicial:              Fecha Inicial Evento
+    Final:                Fecha Final Evento
+    Publicacion:          Fecha Inicial Publicacion
+    Fecha:                Fecha Final Publicacion
+    Latitud:              Latitud
+    Acciones:             Acciones
+#eventos
+    Sistema:              Sistema
+    Acerca:               Acerca De Nosotros
+    Politicas:            Politicas De Privacidad
+    EXCEL:                CULT EXCEL
+    EXCEL|:               EXCEL|
+    Registrar:            Registrate
+    Disfruta:             Disfruta De Los Mejores
+    Ti:                   Ti!
+    Disfrutalo:           Es Gratis ! Disfrutalo..
+    Regresar:             Regresar
+    acuerdo:              De Acuerdo
+    Click:                Al Dar Click En
+    Acuerdo:              Tu Estas De Acuerdo Con
+    RecordarMe:           Recordar Me
+    Usuarios:             Usuarios
+    ID:                   ID de usuario
+    Accion:               Accion
+    Tabla:                Tabla
+    Registro:             Registro
+    Observacion:          Observacion
+    Dia:                  Fecha
+    Credencial:           Credencial Usuario
+    Credencial:           Credencial De Usuario
+    Modificacion:         Fecha De Modificacion
+    Confirmar:            Confirmar Contraseña
+    Nombre:               Nombre
+    Apellido:             Apellido
+    Correo:               Correo
+    Genero:               Genero
+    Nacimiento:           Fecha De Nacimiento
+    Localidad:            Localidad
+    Tipo:                 Tipo Doc
+    UsuarioID:            UsuarioID
+    Costo:                Costo
+    imagen:               imagen
+    Buscar:               Buscar Eventos ...
+    Email:                Email  
+    Password:             Password 
+    Confirmar:            Confirmar Password
+    Registro:             Fecha De Registro  
+    detallePqrs:          detallePqrs
+    pqrs:                 pqrs_id
+    respuesta:            respuesta
+    usuario_id:           usuario_id
+    documento:            tipo_documento_id
+    organizacion:         organizacion_id
+    Estado:               estado Pqrs
+    actived:              actived
+    EvePatrocinador:      evento patrocinador
+    eventoId:             evento_id
+    patrocinadorId:       patrocinador_id
+    localidadId:          localidad_id
+    Organizacion:         organizacion
+    pagina:               pagina_web
+    telefono:             telefono
+    patrocinador:         patrocinador 
+    contenido:            contenido
+    estadoPqrs:           estado_pqrs_id
+    tipoPqrs:             tipo_pqrs_id
+    titulo:               titulo
+    recaudo:              recaudoEconomico
+    tarifaId:             tarifa_id
+    parcial:              valorParcial
+    valor:                valorTotal
+    tarifas:              tarifa
+    Precio:               valor
+    tipoDocumento:        tipo Documento
+    tipoPqrs:             tipoPqrs
+    usuarioCredenci:      usuarioCredencial
+    credenId:             credencial_id
+    Gusta:                usuarioGustaCategoria
+    categoriaId:          categoria_id
+    Clave:                La Clave que Conecta Tu Mundo
+    Iniciar:              Iniciar sesion
+    Estamos:              Estamos Para Contactarte Y
+    Responder:            Para Responder todas Las Preguntas Que necesites!
+    Deseo:                Si! , Deseo Cerrar Sesion
+    Mi:                   Mi Cuenta 
+    AdminUsu:             Admin.usuarios
+    Mis:                  Mis Eventos
+    Tu:                   Tu Cuenta
+    @:                    company@company.com
+    creden:               Credenciales
+    Cuen:                 Cuenta
+    Notas:                Notas
+    Todo:                 Todo List
+    Calculadora:          Calculadora
+    Weather:              Weather
+    Calendario:           Calendario
+    Finanzas:             Finanzas
+    Español:              Español (ES)
+    English:              English (US)
+    My:                   My Profile
+    Change:               Change Password
+    Account:              Account setting
+    Help:                 Help
+    Lock:                 Lock me
+    Logout:               Logout
+    Bienvenido:           Bienvenido
+    Ir:                   Ir al portal
+    Panel:                Admin Panel
+    PQRS:                 PQRS
+    Configuracion:        Configuracion
+    ConfiSis:             Configuracion del Sistema
+    Manteni:              Mantenimiento
+    Contact:              Contact Us
+    Name:                 Name
+    PleaseN:              Please enter your name
+    PleaseE:              Please enter a valid e-mail
+    Website:              Website
+    Add:                  Add Your Comment
+    Say:                  Say something!
+    Information:          Information
+    Address:              Address
+    street:               :1234 Street Name, Bangladesh 
+    @info:                info@yourcompany.com
+    Phone:                Phone
+    +:                    :+12 345 678 001
+    Working:              Working Hours
+    Monday:               Monday - Friday
+    Saturday:             Saturday
+    Sunday:               Sunday
+    am:                   -9am to 5pm
+    pm:                   -9am to 2pm
+    Closed:               -Closed
+    Confirmation:         Confirmation
+    Registra:             Registrate
+    Registrarse:          Registrarse
+    Terminos:             Los Terminos Y condiciones
+    Establecido:          Establecido Por El Sitio Web, Incluyendo El Uso De Cookies.
+    Condiciones:          Terminos & Condiciones 
+    Yo:                   Yo, Estoy De Acuerdo
+    NickName:             NickName
+    Costo:                Costo
+    FechaCre:             Fecha de Creacion
+    cerr:                 cerrar
+    CategoriaSist:        Categorias De Eventos Del Sistema
+    Categorias:           Categorias
+    ExporPDF:             Exportar a PDF 
+    Nom:                  Nombre
+    Elimina:              Eliminar
+    CredenSistem:         Credenciales del Sistema
+    DatosUsuSis:          Datos De Usuarios Del Sistema
+    DetallePQRS:          Detalle PQRS
+    DetallPQRSist:        Detalle PQRS Del Sistema
+    PqrsID:               PqrsID 
+    EstadoPQRSist:        Estado PQRS Del Sistema
+    Activado:             Activado
+    EventosSist:          Eventos Del Sistema
+    #validaciones 
+    20001:                Los Datos Fueron Registrados Exitosamente
+  errors:
+    00001:                El módulo y la acción solicitada, no existe.
+    00002:                La dirección que solicita no está registrada.
+    00003:                Los datos de usuario y contrseña son inválidos.
+    00004:                La confirmacion De Contraseña no Coinciden.
+    10001:                El Nombre Del Usuario %user% exede Los %caracteres% Caracteres Maximo Permitidos!.
+    10002:                Las Contraseñas Ingresadas No coinciden.
+    10004:                El Usuario que Desea Registrar Ya Existe.
+#    00001:  Lo que buscas no existe
+#    10001:  Existe un error en la definición de los includes
+#    10002:  No hay definido un ambito (dev o prod) para la aplicación
+#    10003:  El arhivo %file% no existe
+#    10004:  El directorio %path% no pudo ser creado
