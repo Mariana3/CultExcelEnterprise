@@ -1,7 +1,7 @@
 # CultExcelEnterprise
 
  * @package    Portal Socio  Empresarial Cult Excel
- * @author     Mariana Lopez, Andres Felipe Alvarez, Bryan Andres Durango 
+ * @author     Mariana Lopez Solarte, Andres Felipe Alvarez
  * @copyright  2015 SENA All Rights Reserved.
  * @license    GNU GENERAL PUBLIC LICENSE
  * @version    Release: @1.04@
